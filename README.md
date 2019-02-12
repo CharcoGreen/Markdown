@@ -105,6 +105,9 @@ Encerramos el bloque de código con las tres tildes al revés ``` y le ponemos a
 
 ```
 
+:thumbsdown:
+
+
 ### Otras referencias sobre Markdown:
 
 http://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo
