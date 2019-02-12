@@ -104,7 +104,7 @@ Encerramos el bloque de código con las tres tildes al revés ``` y le ponemos a
 
 
 ```
-
+:heavy_check_mark:
 :thumbsdown:
 
 
