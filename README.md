@@ -4,7 +4,7 @@ Markdown es un lenguaje de marcado y una forma sencilla de agregar formato a tex
 
 ## Tabla de contenido
 
-- [Insertar HN](#insertar-hn).
+- [Insertar HN](#insertar-hn). :ok_hand:
 - [Cursivas](#cursivas).
 - [Negrilla](#negrilla).
 - [Viñetas para tablas de contenido](#vinetas).
